@@ -75,7 +75,7 @@ class _HomescreenState extends State<Homescreen> {
             ),
             BottomNavigationBarItem(
               icon: Icon(
-                Icons.settings,
+                Icons.account_balance_wallet,
                 color: index == 4 ? selectedItem : unselectedColor,
               ),
               label: 'Budget',
