@@ -14,7 +14,9 @@ class MyApp extends StatelessWidget {
     return const MyAppveiw();
   }
 }
-
+void main() {
+  runApp(const MyApp());
+}
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
