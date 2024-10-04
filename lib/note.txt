@@ -8,6 +8,10 @@
  3. แสดงรายการสรุปเงินประจำเดือน 
     สิ่งที่เราจะทำ : เราจะทำเป็นกราฟแสดงทั้งหมด 8เดือน  (ยังไม่สมบูรณ์)
 ----------------------
+***Update 
+ได้เพิ่มfloder database มีไฟล์ข้างใน auth.dart , database.dart ,model.dart 
+เพิ่ม floder page มีไฟล์ข้างใน login.dart , product.dart ,search.dart , signup.dart 
+มีไฟล์ข้าง main.dart
 ######################################################################
 
 Flutter version  : 
